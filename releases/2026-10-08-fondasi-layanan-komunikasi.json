@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-08",
+  "type": "feature",
+  "title": {
+    "id": "Penyediaan Fondasi Layanan Komunikasi Interaktif & Konsultasi Warga",
+    "en": "Provision of Interactive Communication & Citizen Consultation Service Foundation"
+  },
+  "body": {
+    "id": "Penyediaan fondasi sistem layanan komunikasi tatap muka daring untuk mendukung pelaksanaan konsultasi dan interaksi warga secara langsung, stabil, dan aman.",
+    "en": "Establishment of real-time online consultation service foundations to support direct, stable, and secure citizen interactions."
+  },
+  "items": [
+    {
+      "type": "new",
+      "id": "Penyediaan jalur layanan pemantauan keaktifan sistem secara berkala untuk memastikan keandalan operasional layanan publik setiap saat.",
+      "en": "Provision of periodic system health monitoring channels to ensure public service operational reliability at all times."
+    },
+    {
+      "type": "improvement",
+      "id": "Peningkatan otomatisasi pembaruan sistem dan penataan dependensi agar layanan selalu mutakhir tanpa mengganggu kenyamanan akses warga.",
+      "en": "Enhanced automated deployment and dependency maintenance so services remain up to date without interrupting citizen access."
+    },
+    {
+      "type": "security",
+      "id": "Penerapan perlindungan keamanan sesi konsultasi dan arsitektur data terenkripsi demi menjaga kerahasiaan identitas dan data pribadi warga.",
+      "en": "Implementation of consultation session security and encrypted data architecture to safeguard citizen identities and privacy."
+    }
+  ]
+}
