@@ -2,14 +2,24 @@
   "date": "2026-10-08",
   "type": "feature",
   "title": {
-    "id": "Penyediaan Fondasi Layanan Komunikasi Interaktif & Konsultasi Warga",
-    "en": "Provision of Interactive Communication & Citizen Consultation Service Foundation"
+    "id": "Penyediaan Fondasi Layanan Komunikasi Interaktif & Manajemen Akun Terpadu",
+    "en": "Provision of Interactive Communication Foundation & Integrated Account Management"
   },
   "body": {
-    "id": "Penyediaan fondasi sistem layanan komunikasi tatap muka daring untuk mendukung pelaksanaan konsultasi dan interaksi warga secara langsung, stabil, dan aman.",
-    "en": "Establishment of real-time online consultation service foundations to support direct, stable, and secure citizen interactions."
+    "id": "Penyediaan fondasi sistem layanan komunikasi tatap muka daring serta struktur pengelolaan pengguna berbasis 4 tingkatan peran (pengelola utama, administrator, operator, dan warga) demi kenyamanan dan ketertiban pelayanan publik.",
+    "en": "Establishment of online consultation service foundations and a 4-tier role-based account management structure (super administrator, administrator, operator, and citizens) for enhanced convenience and public service order."
   },
   "items": [
+    {
+      "type": "new",
+      "id": "Penyediaan sistem pengelolaan hak akses dan peran berjenjang untuk memastikan petugas operator dan warga mendapatkan fungsi layanan sesuai tugas dan wewenangnya.",
+      "en": "Provision of tiered access rights and role management to ensure operators and citizens receive service capabilities tailored to their responsibilities."
+    },
+    {
+      "type": "new",
+      "id": "Penyediaan fitur administrasi akun pengguna secara lengkap dan terstruktur dengan enkripsi keamanan data pribadi.",
+      "en": "Implementation of comprehensive user account administration with enhanced personal data protection and encryption."
+    },
     {
       "type": "new",
       "id": "Penyediaan jalur layanan pemantauan keaktifan sistem secara berkala untuk memastikan keandalan operasional layanan publik setiap saat.",
@@ -22,8 +32,8 @@
     },
     {
       "type": "security",
-      "id": "Penerapan perlindungan keamanan sesi konsultasi dan arsitektur data terenkripsi demi menjaga kerahasiaan identitas dan data pribadi warga.",
-      "en": "Implementation of consultation session security and encrypted data architecture to safeguard citizen identities and privacy."
+      "id": "Penerapan perlindungan keamanan sesi konsultasi dan enkripsi kata sandi akun demi menjaga kerahasiaan identitas dan data pribadi warga.",
+      "en": "Implementation of consultation session security and password encryption to safeguard citizen identities and privacy."
     }
   ]
 }
