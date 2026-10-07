@@ -1,0 +1,11 @@
+bin/
+dist/
+build/
+main
+tmp/
+*.exe
+*.log
+.env
+.idea/
+.vscode/
+.DS_Store
